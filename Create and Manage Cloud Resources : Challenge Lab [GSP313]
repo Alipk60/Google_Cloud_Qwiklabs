@@ -31,6 +31,7 @@ kubectl expose deployment hello-server \
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+
 Task 3 : Create the web server frontend :-
 
 cat << EOF > startup.sh
