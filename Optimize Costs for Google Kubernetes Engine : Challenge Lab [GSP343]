@@ -2,6 +2,7 @@ GSP343 : Optimize Costs for Google Kubernetes Engine: Challenge Lab :-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+
 Task 1 : Create cluster and deploy an app :-
 
 ZONE=us-central1-a
