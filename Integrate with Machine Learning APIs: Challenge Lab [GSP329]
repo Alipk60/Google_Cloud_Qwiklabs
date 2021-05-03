@@ -24,11 +24,9 @@ import os
 import sys
 
 
-
 # Import Google Cloud Library modules
 
 from google.cloud import storage, bigquery, language, vision, translate_v2
-
 
 
 if ('GOOGLE_APPLICATION_CREDENTIALS' in os.environ):
