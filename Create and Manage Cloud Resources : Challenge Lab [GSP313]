@@ -11,6 +11,7 @@ gcloud compute instances create nucleus-jumphost \
           --image-family debian-9  \
           --image-project debian-cloud \
 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 2 : Create a Kubernetes service cluster :-
@@ -28,6 +29,7 @@ kubectl create deployment hello-server \
 kubectl expose deployment hello-server \
           --type=LoadBalancer \
           --port 8080
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
