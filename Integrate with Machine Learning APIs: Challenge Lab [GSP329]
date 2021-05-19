@@ -14,7 +14,6 @@ gsutil cp gs://$DEVSHELL_PROJECT_ID/analyze-images.py .
 
 // Open Editor and replace the content of "analyze-images.py" file with :-
 
-
 # Dataset: image_classification_dataset
 
 # Table name: image_text_detail
