@@ -13,6 +13,7 @@ where outputs.output_satoshis = 19499300000000
 
 Task - 5.2 : Store the balance of the pizza purchase address in the table 52 inside the lab dataset :-
 
+Mahesh
 
 -- SQL source from https://cloud.google.com/blog/product...
 CREATE OR REPLACE TABLE lab.52 (balance NUMERIC) as
