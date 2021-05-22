@@ -2,7 +2,6 @@ GSP302 : Configure a Firewall and a Startup Script with Deployment Manager :-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-By Mahesh Babar CRCE
 mkdir deployment_manager
 cd deployment_manager
 gsutil cp gs://spls/gsp302/* .
